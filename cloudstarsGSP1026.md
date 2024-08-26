@@ -1,4 +1,4 @@
-# HTTPS Content-Based Load Balancer with Terraform || GSP206
+# Collect Metrics from Exporters using the Managed Service for Prometheus || GSP1026
 
 ## Solution [here](https://youtu.be/gizTvCLRVXI)
 
